@@ -7,6 +7,16 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/Dotnet.gitignore
 
+
+# Visual Studio temporários
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.cache
+*.dtbcache.json
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
