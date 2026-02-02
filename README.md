@@ -42,7 +42,3 @@ installutil.exe VerificadorPreco.exe
 ##  Notas de Desenvolvimento
 
 Atualmente, o projeto utiliza uma lógica de demonstração com dados fixos (hardcoded) para o produto "LIMÃO". Para produção, deve ser implementada a conexão a uma base de dados SQL no método `TmTerminal_Tick`.
-
----
-
-Desenvolvido por **Carlos Natanael**.
